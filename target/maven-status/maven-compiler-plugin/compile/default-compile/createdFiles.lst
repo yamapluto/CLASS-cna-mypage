@@ -1,0 +1,11 @@
+demo\Shipped.class
+demo\MyPage.class
+demo\AbstractEvent.class
+demo\DeliveryCanceled.class
+demo\MyPageViewHandler.class
+demo\MypageApplication.class
+demo\PolicyHandler.class
+demo\AbstractEvent$1.class
+demo\MyPageRepository.class
+demo\config\kafka\KafkaProcessor.class
+demo\Ordered.class
